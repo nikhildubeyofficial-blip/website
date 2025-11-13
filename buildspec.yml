@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_ACCOUNT_ID: "233569936525"
-    REPOSITORY_NAME: "website"
+    REPOSITORY_NAME: "my-ecr-repo"
     CONTAINER_NAME: "website"
     CLUSTER_NAME: "website-cluster"
     AWS_DEFAULT_REGION: "ap-south-1"
