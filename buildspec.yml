@@ -3,9 +3,9 @@ version: 0.2
 env:
   variables:
     AWS_ACCOUNT_ID: "233569936525"
-    REPOSITORY_NAME: "my-ecr-repo"
+    REPOSITORY_NAME: "website"
     CONTAINER_NAME: "website"
-    CLUSTER_NAME: "website-cluster"
+    CLUSTER_NAME: "websiteclusterd"
     AWS_DEFAULT_REGION: "ap-south-1"
     IMAGE_TAG: "latest"
 phases:
